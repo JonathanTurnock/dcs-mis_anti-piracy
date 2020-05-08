@@ -1,7 +1,7 @@
 | | |
 | ---- | ---- |
 | **Title** | Anti Piracy |
-| **Start@** | 12/03/2020 08:00:00
+| **Start@** | 12/03/2020 07:45:00
 
 # Summary
 Increasing recent priate activity in the Strait of Hormuz has led to calls for a coalition intervention into the escalating crisis.
@@ -21,7 +21,7 @@ The green light has been granted for a land assault and has been authorized by t
 | AV-8B | 2 |
 
 # Situation
-The CAP will start at 7:45:00 and all AAA threats must be eliminated by 8:30:00.
+The CAS will start at 7:45:00 and all AAA threats must be eliminated by 8:30:00.
 4 x F-16 will depart Al Dhafra AB and immediately proceed to disabling low altitude AAA.
 
 2x AV-8B will then depart from the USS Tarawa 3m off the coast and provide CAS as required.
@@ -36,13 +36,13 @@ Both groups will rendezvous and return to the Airfield waiting for re-inforcemen
 ## Weather
 | | |
 | ---- | ---- |
-| Temp | +20°C
-| QNH | 760 / 29.92
-| Cloud Cover | Base 300
-| Wind GND | 0 m/s |
-| Wind 2000m | 0 m/s |
-| Wind 8000m | 0 m/s |
-| Turbulence | 0 m/s |
+| Temp | +26°C
+| QNH | 755 / 29.72
+| Cloud Cover | Base 600
+| Wind GND | 5 m/s @ 160° |
+| Wind 2000m | 8 m/s @ 243° |
+| Wind 8000m | 7 m/s " 71° |
+| Turbulence | 1.2 m/s |
 
 # Blue
 Oman, Qatar, Saudi Arabia, UK, United Arab Emirates, USA
