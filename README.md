@@ -11,7 +11,7 @@ Intelligence indicates multiple cells operating out of the islands dotted around
 The green light has been granted for a land assault and has been authorized by the UAE. Fast jets departing Al Dhafra will soften hard targets ahead of a land and air assault by units of the Expeditionary Unit positioned 3m off the coast.
 
 # Recon
-![](https://raw.githubusercontent.com/JonathanTurnock/dcs-mis_anti-piracy/master/recon.png)
+![](https://raw.githubusercontent.com/JonathanTurnock/dcs-mis_anti-piracy/master/reconnaissance.png)
 
 # Allied Flight
 | Aircraft | Number |
