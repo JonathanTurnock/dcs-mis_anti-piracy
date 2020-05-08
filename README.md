@@ -11,7 +11,7 @@ Intelligence indicates multiple cells operating out of the islands dotted around
 The green light has been granted for a land assault and has been authorized by the UAE. Fast jets departing Al Dhafra will soften hard targets ahead of a land and air assault by units of the Expeditionary Unit positioned 3m off the coast.
 
 # Recon
-![](https://raw.githubusercontent.com/JonathanTurnock/dcs-mis_anti-piracy/master/recon.jpg)
+![](https://raw.githubusercontent.com/JonathanTurnock/dcs-mis_anti-piracy/master/recon.png)
 
 # Allied Flight
 | Aircraft | Number |
@@ -48,10 +48,17 @@ Both groups will rendezvous and return to the Airfield waiting for re-inforcemen
 Oman, Qatar, Saudi Arabia, UK, United Arab Emirates, USA
 
 ## Blue Task
+In support of the mainland assault eliminate AAA installations located at targets 1 and 2.
+
+![](https://raw.githubusercontent.com/JonathanTurnock/dcs-mis_anti-piracy/master/planning.png)
 
 ## Objective
 
-## Threats
+### Primary
+Neutralize enemy AAA capability
+
+### Secondary
+Destroy Ships located within the marina, ensure none escape with any HVTs
 
 # Red
 Insurgents, Iran, Russia
